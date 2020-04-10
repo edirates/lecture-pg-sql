@@ -1,0 +1,5 @@
+name,type,level,status,TrainerId
+Pikachu,electric,80,true,1
+Onix,rock,90,true,2
+Squirtle,water,20,true,3
+Bulbasaur,grass,40,true,1
