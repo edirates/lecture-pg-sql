@@ -1,12 +1,13 @@
 ## Postgres Integration with Node using NPM PG
 
 Documentation reference for NPM PG = https://node-postgres.com/
+
 Documentation reference for PostgreSQL =https://www.postgresqltutorial.com/
 
 1. First step before using npm, we need to run `npm init` for generating file `package.json` that will contains all descriptions about our application including required dependencies =
 
    ```
-npm init
+   npm init
    ```
 
    Fill all informations needed or we can use `npm init -y` to automatically enter all of descriptions. Don't forget to fill the author description using your name.
